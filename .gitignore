@@ -34,3 +34,4 @@ build/
 
 .DS_Store
 openai-binding.yaml
+secret.yaml
